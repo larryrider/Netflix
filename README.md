@@ -6,7 +6,7 @@ Esta práctica es una copia visual de la pagina [Netflix](https://www.netflix.co
 
 Para esta práctica se ha utilizado el Framework PHP Laravel, con Bootstrap + CSS + JQuery + JavaScrypt. Parte del CSS utilizado es de la página oficial, pero ha tenido que ser adaptado para hacerlo funcionar correctamente. Todo el JS y JQuery utilizado no ha podido ser reutilizado de la página oficial.
 
-<p align="center"><img src="captura0.png" width="750"></img></p>
+<p align="center"><img src="Captura0.png" width="750"></img></p>
 
 ## Guía de instalación
 
@@ -15,29 +15,29 @@ Siga estas instrucciones para obtener una copia de este proyecto funcionando cor
 ### Prerrequisitos
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-Al ser un proyecto realizado con [Laravel](https://laravel.com/), necesitaremos todo lo necesario para ejecutar uno. Como podría ser PHP, Composer, etc. 
+Al ser un proyecto realizado con [Laravel](https://laravel.com/), necesitaremos todo lo necesario para ejecutar uno. Como podría ser PHP, Composer, etc.
 
 ### Instalando y ejecutando Netflix
 
 Para poner en marcha este proyecto habrá que instalar las dependencias, lanzar las migraciones (y seeders) y poner en funcionamiento el servidor HTTP con el comando:
-```python
+```
 $ composer install
 ```
 
-```python
+```
 $ php artisan migrate:refresh --seed
 ```
 
-```python
+```
 $ php artisan serve
 ```
 
 A continuación se muestran una serie de capturas de la aplicación lograda:
-<p align="center"><img src="captura1.png" width="750"></img></p>
-<p align="center"><img src="captura2.png" width="750"></img></p>
-<p align="center"><img src="captura3.png" width="750"></img></p>
-<p align="center"><img src="captura4.png" width="750"></img></p>
-<p align="center"><img src="captura5.png" width="750"></img></p>
+<p align="center"><img src="Captura1.png" width="750"></img></p>
+<p align="center"><img src="Captura2.png" width="750"></img></p>
+<p align="center"><img src="Captura3.png" width="750"></img></p>
+<p align="center"><img src="Captura4.png" width="750"></img></p>
+<p align="center"><img src="Captura5.png" width="750"></img></p>
 
 ## Funcionalidades
 
@@ -59,11 +59,11 @@ A continuación se muestran una serie de capturas de la aplicación lograda:
     * CRUD Directores
     * CRUD Actores
 
-<p align="center"><img src="captura6.png" width="750"></img></p>
+<p align="center"><img src="Captura6.png" width="750"></img></p>
 
 ## Autores
 
-* **Jonay Gilabert Lopez** - *Programador* - [Sergio](#)
+* **Jonay Gilabert Lopez** - *Programador* - [Jonay](www.linkedin.com/in/jonay-gilabert-lópez-841a4815b)
 * **Lawrence Rider García** - *Programador* - [Larry](http://www.larryrider.es)
 
 Puedes ver también la lista de los [contribuidores](https://github.com/larryrider/Netflix/contributors) que han participado en este proyecto.
