@@ -63,7 +63,7 @@ A continuación se muestran una serie de capturas de la aplicación lograda:
 
 ## Autores
 
-* **Jonay Gilabert Lopez** - *Programador* - [Jonay](www.linkedin.com/in/jonay-gilabert-lópez-841a4815b)
+* **Jonay Gilabert Lopez** - *Programador* - [Jonay](https://www.linkedin.com/in/jonay-gilabert-lópez-841a4815b)
 * **Lawrence Rider García** - *Programador* - [Larry](http://www.larryrider.es)
 
 Puedes ver también la lista de los [contribuidores](https://github.com/larryrider/Netflix/contributors) que han participado en este proyecto.
