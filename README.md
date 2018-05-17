@@ -1,4 +1,4 @@
-<p align="center"><img src="netflix.png" width="400"></img></p>
+<p align="center"><img src="github_images/netflix.png" width="400"></img></p>
 
 # Netflix &nbsp; <img src="https://travis-ci.org/golang/dep.svg?branch=master" alt="Build Status"></img> <img src="https://img.shields.io/badge/license-GPL%20v3-blue.svg" alt="License"></img>
 
@@ -6,7 +6,7 @@ Esta práctica es una copia visual de la pagina [Netflix](https://www.netflix.co
 
 Para esta práctica se ha utilizado el Framework PHP Laravel, con Bootstrap + CSS + JQuery + JavaScrypt. Parte del CSS utilizado es de la página oficial, pero ha tenido que ser adaptado para hacerlo funcionar correctamente. Todo el JS y JQuery utilizado no ha podido ser reutilizado de la página oficial.
 
-<p align="center"><img src="Captura0.png" width="750"></img></p>
+<p align="center"><img src="github_images/Captura0.png" width="750"></img></p>
 
 ## Guía de instalación
 
@@ -33,11 +33,11 @@ $ php artisan serve
 ```
 
 A continuación se muestran una serie de capturas de la aplicación lograda:
-<p align="center"><img src="Captura1.png" width="750"></img></p>
-<p align="center"><img src="Captura2.png" width="750"></img></p>
-<p align="center"><img src="Captura3.png" width="750"></img></p>
-<p align="center"><img src="Captura4.png" width="750"></img></p>
-<p align="center"><img src="Captura5.png" width="750"></img></p>
+<p align="center"><img src="github_images/Captura1.png" width="750"></img></p>
+<p align="center"><img src="github_images/Captura2.png" width="750"></img></p>
+<p align="center"><img src="github_images/Captura3.png" width="750"></img></p>
+<p align="center"><img src="github_images/Captura4.png" width="750"></img></p>
+<p align="center"><img src="github_images/Captura5.png" width="750"></img></p>
 
 ## Funcionalidades
 
@@ -59,7 +59,7 @@ A continuación se muestran una serie de capturas de la aplicación lograda:
     * CRUD Directores
     * CRUD Actores
 
-<p align="center"><img src="Captura6.png" width="750"></img></p>
+<p align="center"><img src="github_images/Captura6.png" width="750"></img></p>
 
 ## Autores
 
