@@ -1,6 +1,6 @@
 <p align="center"><img src="github_images/netflix.png" width="400"></img></p>
 
-# Netflix &nbsp; <img src="https://travis-ci.org/golang/dep.svg?branch=master" alt="Build Status"></img> <img src="https://img.shields.io/badge/license-GPL%20v3-blue.svg" alt="License"></img>
+# Netflix &nbsp; <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" alt="Build Status"></img> <img src="https://img.shields.io/badge/license-GPL%20v3-blue.svg" alt="License"></img>
 
 Esta práctica es una copia visual de la pagina [Netflix](https://www.netflix.com/), una página que ofrece una tarifa plana mensual de contenido multimedia (principalmente, películas, series de televisión) y documentales bajo demanda por Internet.
 
@@ -68,7 +68,7 @@ A continuación se muestran una serie de capturas de la aplicación lograda:
 
 Puedes ver también la lista de los [contribuidores](https://github.com/larryrider/Netflix/contributors) que han participado en este proyecto.
 
-## Licencia
+## Licencias
 
 Este proyecto está bajo la licencia GNU GPL v3 - revisa [LICENSE](LICENSE) para ver más detalles.
 
